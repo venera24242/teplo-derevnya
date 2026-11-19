@@ -63,7 +63,7 @@ id: `1eFaot3qbFOYc4ZuVPn12YGgF1Ckk69Lm`
 | Чек-лист выбора участка — 18.11.2026 | [документ](https://docs.google.com/document/d/1M-YwljSI9PDlykZMPDGm-9QuspFWrSj_eUeP7K-8_zQ/edit) |
 | Аренда земли без торгов и скважина — 18.11.2026 | [документ](https://docs.google.com/document/d/1vWxB3JKIewgIAHW3mGCaat8ba6EIqo9zvPifwelRKpo/edit) |
 | Инженерная схема термальной воды и гротов — 18.11.2026 | [документ](https://docs.google.com/document/d/1D4cBes8wC6m7GPDf9ccYi26z-H7kECnnxasVnpU0k1k/edit) |
-| Эта инструкция для передачи другому боту — 19.11.2026 | копия на Диске, см. тот же заголовок в папке проекта |
+| Эта инструкция для передачи другому боту — 19.11.2026 | [документ](https://docs.google.com/document/d/1FPMN7FWpznppEkxgmtwM09q6q6_J9GCFoaZE_PGQBeg/edit) |
 
 Подпапка [Рабочие приложения](https://drive.google.com/drive/folders/1nPdELAGT0r88DM2nVonabU2cXoNlL48X) (id `1nPdELAGT0r88DM2nVonabU2cXoNlL48X`):
 
